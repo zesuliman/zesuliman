@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zesuliman a software engineer interested in scalable data intensive applications
+- 👋 Hi, I’m @zesuliman a software engineer interested in scalable-data intensive applications. I am familiar with the financial and banking domain.
 - 👀 I’m interested in Java, Spring Framework, and Web Technologies
-- 🌱 I’m currently learning the Spring echo system and Angular Framework
+- 🌱 I’m currently learning the Spring echo system and React
 - 📫 Please message me or contact me through zeinab_so@hotmail.com
 
 <!---
